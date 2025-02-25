@@ -178,7 +178,7 @@
   { "id": 177, "length": "20m", "width": "15m", "area": 300, "description": "على شارع 12م", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 178, "length": "", "width": "", "area": 360.2, "description": "ركنية على شارع 12و15", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 179, "length": "", "width": "", "area": 327, "description": "ركنية على شارع 12و12", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
-  { "id": 180, "length": "20m", "width": "15m", "area": 300, "description": "على شارع 12م", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" }
+  { "id": 180, "length": "20m", "width": "15m", "area": 300, "description": "على شارع 12م", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 181, "length": "20m", "width": "15m", "area": 300, "description": "على شارع 12م", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 182, "length": "20m", "width": "15m", "area": 300, "description": "على شارع 12م", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 183, "length": "", "width": "", "area": 326.4, "description": "ركنية على شارع 12و12 واجهة بحرية", "type": "فلا D", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
@@ -268,7 +268,7 @@
   { "id": 267, "length": "", "width": "", "area": 300, "description": "على شارع 20م", "type": "فيلا A", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 268, "length": "", "width": "", "area": 300, "description": "على شارع 20م", "type": "فيلا A", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 269, "length": "", "width": "", "area": 300, "description": "ركنية على شارع 12 و12 واجهة بحرية", "type": "فيلا A", "pricePerMeter": "", "totalPrice": "", "status": "تم البيع" },
-  { "id": 270, "length": "", "width": "", "area": 477, "description": "ركنية على شارع 20 و12 واجهة بحرية", "type": "فيلا B", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" }
+  { "id": 270, "length": "", "width": "", "area": 477, "description": "ركنية على شارع 20 و12 واجهة بحرية", "type": "فيلا B", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 271, "length": "", "width": "", "area": 300, "description": "على شارع 20م", "type": "فيلا B", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 272, "length": "", "width": "", "area": 300, "description": "على شارع 20م", "type": "فيلا B", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 273, "length": "", "width": "", "area": 322.8, "description": "ركنية على شارع 20 و12", "type": "فيلا B", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
@@ -312,7 +312,7 @@
   { "id": 311, "length": "", "width": "", "area": 360, "description": "على شارع 12 واجهة بحرية", "type": "", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 312, "length": "", "width": "", "area": 360, "description": "على شارع 12 واجهة بحرية", "type": "", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": 313, "length": "", "width": "", "area": 330, "description": "على شارع 12 واجهة بحرية", "type": "", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
-  { "id": 314, "length": "", "width": "", "area": 264.3, "description": "تقاطع شارعين 12 واجهة بحرية", "type": "", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" }
+  { "id": 314, "length": "", "width": "", "area": 264.3, "description": "تقاطع شارعين 12 واجهة بحرية", "type": "", "pricePerMeter": "", "totalPrice": "", "status": "متوفر" },
   { "id": "T1", "length": "34", "width": "19", "area": 646, "description": "على شارع 60 واجهة بحرية", "type": "استثمارية", "pricePerMeter": "400", "totalPrice": "258400", "status": "متوفر" },
   { "id": "T2", "length": "34", "width": "19", "area": 646, "description": "على شارعين 60 و 16 واجهة بحرية", "type": "استثمارية", "pricePerMeter": "400", "totalPrice": "258400", "status": "متوفر" },
   { "id": "T3", "length": "34", "width": "19", "area": 646, "description": "على شارعين 60 و 16 واجهة بحرية", "type": "استثمارية", "pricePerMeter": "400", "totalPrice": "258400", "status": "متوفر" },
